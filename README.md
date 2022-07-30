@@ -3,7 +3,7 @@ Just your casual Fullstack Developer & Game Developer.
 
 
 ## 🌐 Socials:
-**Twitter**: @7b3n_
+**Twitter**: @7b3n_<br/>
 **Discord**: Benn (Taylor's Version)#3772
 
 # 💻 Tech Stack:
