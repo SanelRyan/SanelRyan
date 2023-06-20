@@ -4,7 +4,7 @@
 **Play Store**: [Go to Play Store](https://play.google.com/store/apps/developer?id=Sanel%20Ryan%20T%20Clitus)
 
 # 📖 Projects I worked on:
-**India Pincode Search using Expo**: [Check out the app on Play Store](https://play.google.com/store/apps/details?id=me.sanelryantclitus.indiapincodesearch)
+**India Pincode Search using Expo**: [Check out the app on Play Store](https://play.google.com/store/apps/details?id=me.sanelryantclitus.indiapincodesearch)<br/>
 **DarkonixGaming using Wordpress**: [Darkonix Gaming Website](https://Darkonixgaming.com)
 
 # 💻 Tech Stack:
