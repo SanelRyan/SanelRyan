@@ -1,10 +1,8 @@
 ## 🌐 Socials:
 **Twitter**: [@7b3n_](https://twitter.com/7b3n_)<br/>
 **Discord**: itsbennfr<br/>
-**Play Store**: [Go to Play Store](https://play.google.com/store/apps/developer?id=Sanel%20Ryan%20T%20Clitus)
 
 # 📖 Projects I worked on:
-**India Pincode Search using Expo**: [Check out the app on Play Store](https://play.google.com/store/apps/details?id=me.sanelryantclitus.indiapincodesearch)<br/>
 **Gladiator Games Website using Next.JS**: [Check out the website](https://gladiatorgames.xyz/)<br/>
 
 # 💻 Tech Stack:
