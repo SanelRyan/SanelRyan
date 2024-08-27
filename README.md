@@ -2,7 +2,7 @@
 **Twitter**: [@7b3n_](https://twitter.com/7b3n_)<br/>
 **Discord**: itsbennfr<br/>
 
-# 📖 Projects I worked on:
+## 📖 Projects I worked on:
 **Gladiator Games Website using Next.JS**: [Check out the website](https://gladiatorgames.xyz/)<br/>
 
 ---
