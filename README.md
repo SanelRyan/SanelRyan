@@ -1,5 +1,6 @@
 ## 🌐 Socials:
-**Twitter**: [@7b3n_](https://twitter.com/7b3n_)<br/>
+**X**: [@itsbennfr](https://x.com/itsbennfr)<br/>
+**Telegram**: itsbennfr<br/>
 **Discord**: itsbennfr<br/>
 
 # 📊 Websites Made By Me (Full Stack):
