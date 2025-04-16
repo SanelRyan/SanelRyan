@@ -1,5 +1,4 @@
 ## 🌐 Socials:
-**X**: [@itsbennfr](https://x.com/itsbennfr)<br/>
 **Telegram**: itsbennfr<br/>
 **Discord**: itsbennfr<br/>
 
