@@ -12,3 +12,4 @@
 - [Platinum Effect](https://pl4tinumeffects.com/)
 - [FunkyMonkey](https://funkymonkey.gg)
 - [Kaos Games](https://kaosgamesllc.com/)
+- [Vexed Interactive](https://www.vexedinteractive.com/)
