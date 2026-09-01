@@ -13,3 +13,4 @@
 - [FunkyMonkey](https://funkymonkey.gg)
 - [Kaos Games](https://kaosgamesllc.com/)
 - [Vexed Interactive](https://www.vexedinteractive.com/)
+- [RiseUp](https://riseupgames.net/)
