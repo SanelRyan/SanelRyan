@@ -1,12 +1,19 @@
-### 🌐 Socials:
-**Telegram**: itsbennfr<br/>
-**Discord**: itsbennfr<br/>
+# 💕 Bio
+I make sites, and make games on roblox.
+Commissions open for sites - Contact me through X or discord
 
-**Experienced in**: JS, TS, PY, Luau, NoSQL, SQL, PHP, Rust (WIP)
+💪 JS, TS, PY, Luau, Blender, Figma, Claude
 
 ---
 
-# My Creation
+### 🌐 Socials:
+**X**: [itsbennfr](https://x.com/itsbennfr) <br/>
+**Telegram**: itsbennfr<br/>
+**Discord**: itsbennfr<br/>
+
+---
+
+### My Creation
 - [SwiftRBLX](https://swiftrblx.com)
 - [BVL](https://bvl.gg)
 - [Platinum Effect](https://pl4tinumeffects.com/)
