@@ -7,6 +7,7 @@ Commissions open for sites - Contact me through X or discord
 ---
 
 ### 🌐 Socials:
+**My portfolio**: [View my full portfolio](http://itsbenn.com/)
 **Telegram**: itsbennfr<br/>
 **Discord**: itsbennfr<br/>
 
